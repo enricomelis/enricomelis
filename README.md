@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @youngmelis
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning front-end development
+- 👋 Hi, I’m @enricomelis
 
 <!---
 youngmelis/youngmelis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
